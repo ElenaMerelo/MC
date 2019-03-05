@@ -1,0 +1,8 @@
+Atletas con los tres mejores tiempos de su categoría del archivo: ranking.txt
+Distancia: 300 metros
+1º mejor: 32.72       Cayetano    Cornet          220863        4cA     Jerez de la Frontera    13.09.1989
+2º mejor: 32.7        David       Canal           071278        1       Sabadell                14.05.2000
+Distancia: 400 metros
+1º mejor: 44.69       Bruno       Hortelano       180991        2cA     Madrid                  22.06.2018
+2º mejor: 44.96       Cayetano    Cornet          220863        1       Barcelona               12.08.1989
+3º mejor: 45.01       David       Canal           071278        1       Jerez de la Frontera    03.08.2003
